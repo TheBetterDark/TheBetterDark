@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @TheBetterDark
-- 👀 I’m interested in Python & Luau
+- 👀 I’m interested in gameplay programming with Roblox Luau and backend web development
+- 💞️ I'm looking to collaborate on web application & Roblox Luau projects
 - 📫 How to reach me TheBetterDark#7421
 
 <!---
