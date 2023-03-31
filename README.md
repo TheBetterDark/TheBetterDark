@@ -1,5 +1,8 @@
 <h2 align="center">👋 Welcome!, I’m @TheBetterDark</h2>
 
+<h4 align="center">Visitor's count :eyes:</h4>
+<div align="center"><img src="https://profile-counter.glitch.me/{TheBetterDark}/count.svg" alt="TheBetterDark :: Visitor's Count" /></div>
+
 ```lua
   local tbl = {}
   
@@ -7,7 +10,7 @@
     return {
       AboutMe = { "Gameplay Programming", "Roblox Luau", "Web Development" },
       TechStack = {
-        FrontEnd = { "HTML", "CSS", " " }
+        FrontEnd = { "HTML", "CSS", "JavaScript" }
       
     
       "- 👋 Hi, I’m @TheBetterDark",
@@ -32,10 +35,9 @@
 ```
 <h2 align="center">Github Stats :bar_chart:</h2>
 
-<h4>Visitor's count :eyes:</h4>
-<img src="https://profile-counter.glitch.me/{TheBetterDark}/count.svg" alt="TheBetterDark :: Visitor's Count" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBetterDark&langs_count=10&theme=tokyonight&layout=compact" alt="TheBetterDark :: Top Langs" />
 <img src="https://github-readme-stats.vercel.app/api?username=TheBetterDark&show_icons=true&theme=synthwave" alt="TheBetterDark :: Profile Stats" />
+
 
 <!---
 TheBetterDark/TheBetterDark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
