@@ -1,8 +1,5 @@
 <h2 align="center">👋 Welcome!, I’m @TheBetterDark</h2>
 
-<h4 align="center">Visitor's count :eyes:</h4>
-<div align="center"><img src="https://profile-counter.glitch.me/{TheBetterDark}/count.svg" alt="TheBetterDark :: Visitor's Count" /></div>
-
 ```lua
   local tbl = {}
   
