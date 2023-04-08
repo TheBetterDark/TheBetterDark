@@ -9,7 +9,6 @@
       TechStack = {
         FrontEnd = { "HTML", "CSS", "JavaScript" }
       
-    
       "- 👋 Hi, I’m @TheBetterDark",
       "- 👀 I’m interested in gameplay programming with Roblox Luau and web development",
       "- 💞️ I'm looking to collaborate on Web Application & Roblox Luau projects",
