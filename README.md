@@ -4,7 +4,7 @@
   function GetProfile()
     return {
       AboutMe = { "Gameplay Programming", "Roblox Luau", "Web Development" },
-      TechStack = {"HTML", "CSS", "JavaScript", "Python", "Lua", "MySQL", "MongoDB" },
+      TechStack = {"HTML", "CSS", "JavaScript", "Python", "Lua", "MySQL", "MongoDB"},
       
       "- 👋 Hi, I’m @TheBetterDark",
       "- 👀 I’m interested in gameplay programming with Roblox Luau and web development",
