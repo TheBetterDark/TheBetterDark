@@ -1,13 +1,10 @@
 <h2 align="center">👋 Welcome!, I’m @TheBetterDark</h2>
 
 ```lua
-  local tbl = {}
-  
   function GetProfile()
     return {
       AboutMe = { "Gameplay Programming", "Roblox Luau", "Web Development" },
-      TechStack = {
-        FrontEnd = { "HTML", "CSS", "JavaScript" }
+      TechStack = {"HTML", "CSS", "JavaScript", "Python", "Lua", "MySQL", "MongoDB" },
       
       "- 👋 Hi, I’m @TheBetterDark",
       "- 👀 I’m interested in gameplay programming with Roblox Luau and web development",
@@ -15,18 +12,7 @@
       "- 📫 How to reach me TheBetterDark#7421"
     }
   end
-  
-   function GetTechStack()
-    return {
-      "- HTML",
-      "- CSS",
-      "- JavaScript",
-      "- Python",
-      "- Lua",
-      "- MySQL",
-    }
-  end
-  
+   
   print(GetProfile())
 ```
 <h2 align="center">Github Stats :bar_chart:</h2>
