@@ -1,10 +1,15 @@
 <h2 align="center">👋 Welcome!, I’m @TheBetterDark</h2>
+<p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,lua,js,ts,py,mysql,mongodb"/>
+  </p>
+</p>
 
 ```lua
   function GetProfile()
     return {
       AboutMe = { "Gameplay Programming", "Roblox Luau", "Web Development" },
-      TechStack = {"HTML", "CSS", "JavaScript", "Python", "Lua", "MySQL", "MongoDB"},
+      TechStack = {"HTML", "CSS", "JavaScript", "TypeScript, "Python", "Lua", "MySQL", "MongoDB"},
       
       "- 👋 Hi, I’m @TheBetterDark",
       "- 👀 I’m interested in gameplay programming with Roblox Luau and web development",
@@ -16,7 +21,6 @@
   print(GetProfile())
 ```
 <h2 align="center">Github Stats :bar_chart:</h2>
-
-<!---<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBetterDark&langs_count=10&theme=tokyonight&layout=compact" alt="TheBetterDark :: Top Langs" />--->
-<img src="https://github-readme-stats.vercel.app/api?username=TheBetterDark&show_icons=true&theme=synthwave" alt="TheBetterDark :: Profile Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheBetterDark&theme=react&hide_border=false" />
+<a href="https://github.com/TheBetterDark/">
+  <img height=200 align="center" src="https://github-stats-alpha.vercel.app/api?username=TheBetterDark&cc=000&tc=fff&ic=fff&bc=100" />
+</a>
