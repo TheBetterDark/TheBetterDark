@@ -20,7 +20,7 @@
    
   print(GetProfile())
 ```
-<h2 align="center">Github Stats :bar_chart:</h2>
-<a href="https://github.com/TheBetterDark/">
-  <img height=200 align="center" src="https://github-stats-alpha.vercel.app/api?username=TheBetterDark&cc=000&tc=fff&ic=fff&bc=100" />
-</a>
+<div align="center">
+  <img valign="top" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=TheBetterDark&count_private=true&theme=transparent&hide_border=true" style="padding-riight:20px" />
+  <img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBetterDark&theme=transparent&hide_border=true" />
+</div>
