@@ -1,7 +1,7 @@
 <h2 align="center">👋 Welcome!, I’m @TheBetterDark</h2>
 <p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,lua,js,ts,py,mysql,mongodb"/>
+    <img src="https://skillicons.dev/icons?i=lua,js,ts,py,mysql,mongodb"/>
   </p>
 </p>
 
